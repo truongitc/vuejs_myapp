@@ -7,7 +7,7 @@
 
 **Vuetify Material Dashboard** is a beautiful resource built over [Vuetify](https://vuetifyjs.com/en/), [Vuex](https://vuex.vuejs.org/installation.html) and [Vuejs](https://vuejs.org/). It will help you get started developing dashboards in no time. Vuetify Material Dashboard is the official Vuejs version of the Original [Material Dashboard PRO](https://www.creative-tim.com/product/material-dashboard). Using the Dashboard is pretty simple but requires basic knowledge of Javascript, [Vuejs](https://vuejs.org/v2/guide/) and [Vue-Router](https://router.vuejs.org/en/).
 
-We have created it thinking about things you actually need in a dashboard. **Vuetify Material Dashboard**  contains handpicked and optimized Vuejs plugins. Everything is designed to fit with one another. As you will be able to see, the dashboard you can access on [Creative Tim](https://www.creative-tim.com) is a customization of this product.
+We have created it thinking about things you actually need in a dashboard. **Vuetify Material Dashboard**  contains handpicked and optimized Vuejs plugins. Everything is designed to fit with one another. As you will be able to see, the dashboard you can access on is a customization of this product.
 
 **Vuetify** is developed exactly according to Material Design spec. Every component is handcrafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
 
@@ -67,7 +67,7 @@ Let us know your thoughts below. And good luck with development!
 
 
 ## Documentation
-The documentation for the **Vuetify Material Dashboard** is hosted on vuetify [website](https://vuetifyjs.com/en/components/api-explorer).
+The documentation for the **Vuetify Material Dashboard** is hosted on vuetify [website](https://vuetifyjs.com/en/).
 
 
 ## File Structure
